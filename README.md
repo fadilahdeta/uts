@@ -1,0 +1,2 @@
+# uts
+Program Menghitung THR
